@@ -4,6 +4,9 @@ This repository contains the input data connected to the following article:
 
 - Rodríguez-Puente, Paula, Tanja Säily and Jukka Suomela. "New methods for analysing diachronic suffix competition across registers: How *-ity* gained ground on *-ness* in Early Modern English". *International Journal of Corpus Linguistics.*
 
+
+## data.json
+
 The file `data.json` contains the following top-level elements:
 
 **samples** = metadata on the corpus texts; each text is an object with the following key–value pairs:
@@ -26,6 +29,13 @@ The file `data.json` contains the following top-level elements:
 - *after:* the context after the token in the text
 
 We refer to the article for more details on how the data was derived and how to interpret these records.
+
+
+## CSV files
+
+The CSV files `samples.csv` and `tokens.csv` contain the same information as `data.json`. The first one contains one sample per row, and the second one contains one token per row.
+
+These files were created using the Python script `bin/json-to-csv.py`.
 
 
 ## License
