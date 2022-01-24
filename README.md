@@ -27,6 +27,13 @@ The file `data.json` contains the following top-level elements:
 
 We refer to the article for more details on how the data was derived and how to interpret these records.
 
+
+## License
+
+The content is licensed under CC BY 4.0:
+https://creativecommons.org/licenses/by/4.0/
+
+
 ## Authors
 
 - Paula Rodríguez-Puente (the main author of this data set)
