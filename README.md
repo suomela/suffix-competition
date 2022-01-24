@@ -19,8 +19,8 @@ The file `data.json` contains the following top-level elements:
 
 - *corpus:* see above
 - *sample:* see above
-- *dataset:* the suffix represented by the token (-ness or -ity)
-- *token:* the -ness/-ity word in question, normalized to present-day spelling
+- *dataset:* the suffix represented by the token (*-ness* or *-ity*)
+- *token:* the *-ness/-ity* word in question, normalized to present-day spelling
 - *before:* the context before the token in the text
 - *word:* the token in its original spelling in the text
 - *after:* the context after the token in the text
