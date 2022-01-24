@@ -38,6 +38,11 @@ The CSV files `samples.csv` and `tokens.csv` contain the same information as `da
 These files were created using the Python script `bin/json-to-csv.py`.
 
 
+## Code
+
+Please see https://github.com/suomela/suffix-competition-code for code examples that make use of this data.
+
+
 ## License
 
 The content is licensed under CC BY 4.0:
