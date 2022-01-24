@@ -1,0 +1,574 @@
+corpus,genre,period,sample,words,year
+CHELAR,Law reports,1535-1599,1544decr,3111,1544
+CHELAR,Law reports,1535-1599,1545perj,89,1545
+CHELAR,Law reports,1535-1599,1547assu,78,1547
+CHELAR,Law reports,1535-1599,1557swig,1972,1557
+CHELAR,Law reports,1535-1599,1559finc,2702,1559
+CHELAR,Law reports,1535-1599,1572vern,2696,1572
+CHELAR,Law reports,1535-1599,1575bevi,2517,1575
+CHELAR,Law reports,1535-1599,1576fren,2555,1576
+CHELAR,Law reports,1535-1599,1578crom,2657,1578
+CHELAR,Law reports,1535-1599,1579sims,2468,1579
+CHELAR,Law reports,1535-1599,1580hayw,2686,1580
+CHELAR,Law reports,1535-1599,1582thor,2524,1582
+CHELAR,Law reports,1535-1599,1584tave,2383,1584
+CHELAR,Law reports,1535-1599,1586gren,2539,1586
+CHELAR,Law reports,1535-1599,1588melw,2544,1588
+CHELAR,Law reports,1535-1599,1589bald,2778,1589
+CHELAR,Law reports,1535-1599,1590page,2602,1590
+CHELAR,Law reports,1535-1599,1592atto,2602,1592
+CHELAR,Law reports,1535-1599,1594rudt,2532,1594
+CHELAR,Law reports,1535-1599,1595linc,2526,1595
+CHELAR,Law reports,1535-1599,1596penn,2636,1596
+CHELAR,Law reports,1535-1599,1597arch,2519,1597
+CHELAR,Law reports,1535-1599,1598buck,2689,1598
+CHELAR,Law reports,1600-1649,1601lord,2455,1601
+CHELAR,Law reports,1600-1649,1602ferm,2582,1602
+CHELAR,Law reports,1600-1649,1605bret,2464,1605
+CHELAR,Law reports,1600-1649,1609mars,2546,1609
+CHELAR,Law reports,1600-1649,1610earl,2608,1610
+CHELAR,Law reports,1600-1649,1612free,2599,1612
+CHELAR,Law reports,1600-1649,1615earl,2537,1615
+CHELAR,Law reports,1600-1649,1616whit,2509,1616
+CHELAR,Law reports,1600-1649,1622leat,1252,1622
+CHELAR,Law reports,1600-1649,1626lydd,1746,1626
+CHELAR,Law reports,1600-1649,1628brow,2046,1628
+CHELAR,Law reports,1600-1649,1629luc,2486,1629
+CHELAR,Law reports,1600-1649,1631theo,2723,1631
+CHELAR,Law reports,1600-1649,1634mars,2647,1634
+CHELAR,Law reports,1600-1649,1635char,2638,1635
+CHELAR,Law reports,1600-1649,1636poph,2642,1636
+CHELAR,Law reports,1600-1649,1637lock,2597,1637
+CHELAR,Law reports,1600-1649,1638tanf,1299,1638
+CHELAR,Law reports,1600-1649,1639barg,2391,1639
+CHELAR,Law reports,1600-1649,1641hugh,2527,1641
+CHELAR,Law reports,1600-1649,1648harb,1277,1648
+CHELAR,Law reports,1600-1649,1649unde,2502,1649
+CHELAR,Law reports,1650-1699,1651cond,2532,1651
+CHELAR,Law reports,1650-1699,1653bone,2467,1653
+CHELAR,Law reports,1650-1699,1657godf,2558,1657
+CHELAR,Law reports,1650-1699,1659holl,2496,1659
+CHELAR,Law reports,1650-1699,1662berr,2502,1662
+CHELAR,Law reports,1650-1699,1664glov,2541,1664
+CHELAR,Law reports,1650-1699,1665lynv,2502,1665
+CHELAR,Law reports,1650-1699,1666bosw,2615,1666
+CHELAR,Law reports,1650-1699,1670come,2340,1670
+CHELAR,Law reports,1650-1699,1674nurs,2524,1674
+CHELAR,Law reports,1650-1699,1677earl,2767,1677
+CHELAR,Law reports,1650-1699,1678jame,2510,1678
+CHELAR,Law reports,1650-1699,1680domi,2642,1680
+CHELAR,Law reports,1650-1699,1684fitt,2546,1684
+CHELAR,Law reports,1650-1699,1685offl,2634,1685
+CHELAR,Law reports,1650-1699,1687ston,2527,1687
+CHELAR,Law reports,1650-1699,1693harc,2491,1693
+CHELAR,Law reports,1650-1699,1694henr,2539,1694
+CHELAR,Law reports,1650-1699,1696luci,2590,1696
+CHELAR,Law reports,1650-1699,1698soci,2419,1698
+CHELAR,Law reports,1700-1749,1700thom,2420,1700
+CHELAR,Law reports,1700-1749,1703scot,2563,1703
+CHELAR,Law reports,1700-1749,1706pill,2528,1706
+CHELAR,Law reports,1700-1749,1708falk,2529,1708
+CHELAR,Law reports,1700-1749,1711seym,2546,1711
+CHELAR,Law reports,1700-1749,1714tyrw,2529,1714
+CHELAR,Law reports,1700-1749,1717barn,2531,1717
+CHELAR,Law reports,1700-1749,1719ludl,2561,1719
+CHELAR,Law reports,1700-1749,1722wing,2547,1722
+CHELAR,Law reports,1700-1749,1724page,2527,1724
+CHELAR,Law reports,1700-1749,1727west,2534,1727
+CHELAR,Law reports,1700-1749,1729amhe,2543,1729
+CHELAR,Law reports,1700-1749,1733evel,2556,1733
+CHELAR,Law reports,1700-1749,1735selw,2507,1735
+CHELAR,Law reports,1700-1749,1737bank,2590,1737
+CHELAR,Law reports,1700-1749,1738hopk,2584,1738
+CHELAR,Law reports,1700-1749,1742beau,2589,1742
+CHELAR,Law reports,1700-1749,1744lene,2572,1744
+CHELAR,Law reports,1700-1749,1746evan,2546,1746
+CHELAR,Law reports,1700-1749,1748parm,2464,1748
+PENN,(Auto)biography,1500-1569,mowntayne-e1-h,5942,c1555
+PENN,(Auto)biography,1500-1569,mowntayne-e1-p1,6152,c1555
+PENN,(Auto)biography,1500-1569,mowntayne-e1-p2,1647,c1555
+PENN,(Auto)biography,1500-1569,underhill-e1-p2,5533,1561
+PENN,Bible,1500-1569,tyndnew-e1-h,11140,1534
+PENN,Bible,1500-1569,tyndnew-e1-p1,12326,1534
+PENN,Bible,1500-1569,tyndnew-e1-p2,10843,1534
+PENN,Bible,1500-1569,tyndold-e1-h,10104,1530
+PENN,Bible,1500-1569,tyndold-e1-p1,10878,1530
+PENN,Bible,1500-1569,tyndold-e1-p2,10312,1530
+PENN,(Auto)biography,1500-1569,roper-e1-h,5587,c1555
+PENN,(Auto)biography,1500-1569,roper-e1-p1,5680,c1555
+PENN,(Auto)biography,1500-1569,roper-e1-p2,5723,c1555
+PENN,"Diary, private",1500-1569,edward-e1-h,6269,1550-1552
+PENN,"Diary, private",1500-1569,edward-e1-p1,6611,1550-1552
+PENN,"Diary, private",1500-1569,edward-e1-p2,6766,1550-1552
+PENN,"Diary, private",1500-1569,machyn-e1-h,6821,1553-1559
+PENN,"Diary, private",1500-1569,machyn-e1-p1,7434,1553-1559
+PENN,"Diary, private",1500-1569,machyn-e1-p2,7332,1553-1559
+PENN,Educational treatise,1500-1569,asch-e1-h,4913,1563-1568
+PENN,Educational treatise,1500-1569,asch-e1-p1,5216,1563-1568
+PENN,Educational treatise,1500-1569,asch-e1-p2,5037,1563-1568
+PENN,Educational treatise,1500-1569,elyot-e1-h,5537,1531
+PENN,Educational treatise,1500-1569,elyot-e1-p1,5676,1531
+PENN,Educational treatise,1500-1569,elyot-e1-p2,5988,1531
+PENN,Educational treatise,1500-1569,fitzh-e1-h,5266,1534
+PENN,Educational treatise,1500-1569,fitzh-e1-p1,5404,1534
+PENN,Educational treatise,1500-1569,fitzh-e1-p2,5526,1534
+PENN,Educational treatise,1500-1569,turner-e1-h,5014,1568
+PENN,Educational treatise,1500-1569,turner-e1-p1,4974,1568
+PENN,Educational treatise,1500-1569,turner-e1-p2,5050,1568
+PENN,Educational treatise,1500-1569,turnerherb-e1-p2,747,1562
+PENN,History,1500-1569,fabyan-e1-h,5478,1516
+PENN,History,1500-1569,fabyan-e1-p1,6028,1516
+PENN,History,1500-1569,fabyan-e1-p2,5931,1516
+PENN,History,1500-1569,moreric-e1-h,5677,c1513
+PENN,History,1500-1569,moreric-e1-p1,6335,c1513
+PENN,History,1500-1569,moreric-e1-p2,6406,c1513
+PENN,Law,1500-1569,stat-1500-e1-h,7861,1509-1512
+PENN,Law,1500-1569,stat-1510-e1-p2,2333,1514-1515
+PENN,Law,1500-1569,stat-1530-e1-p1,9149,1530-1536
+PENN,Law,1500-1569,stat-1540-e1-h,3971,1540-1545
+PENN,Law,1500-1569,stat-1540-e1-p1,3729,1540-1545
+PENN,Law,1500-1569,stat-1550-e1-p2,5779,1551-1555
+PENN,Law,1500-1569,stat-1560-e1-p2,4194,1562-1563
+PENN,"Letters, non-private",1500-1569,ambass-e1-p2,1412,1525
+PENN,"Letters, non-private",1500-1569,bedyll-e1-h,432,1537
+PENN,"Letters, non-private",1500-1569,cromwell-e1-h,435,1537
+PENN,"Letters, non-private",1500-1569,cromwell-e1-p1,510,c1530
+PENN,"Letters, non-private",1500-1569,cromwell-e1-p2,870,1530
+PENN,"Letters, non-private",1500-1569,dacre-e1-p2,996,1513
+PENN,"Letters, non-private",1500-1569,eliz-1560-e1-p2,311,1566
+PENN,"Letters, non-private",1500-1569,friar-e1-p1,908,1538
+PENN,"Letters, non-private",1500-1569,henry-1510-e1-p2,204,c1515
+PENN,"Letters, non-private",1500-1569,henry-1520-e1-h,921,1520-1528
+PENN,"Letters, non-private",1500-1569,henry-1520-e1-p1,1106,1520-1528
+PENN,"Letters, non-private",1500-1569,henry-1530-e1-p2,756,1530-1532
+PENN,"Letters, non-private",1500-1569,interview-e1-p2,390,1520
+PENN,"Letters, non-private",1500-1569,lords-e1-h,434,1539
+PENN,"Letters, non-private",1500-1569,marches-e1-p1,491,1537
+PENN,"Letters, non-private",1500-1569,morewol-e1-h,1445,c1523-1524
+PENN,"Letters, non-private",1500-1569,morewol-e1-p1,1587,c1523-1524
+PENN,"Letters, non-private",1500-1569,morewol-e1-p2,1397,c1523-1524
+PENN,"Letters, non-private",1500-1569,mtudor-1510-e1-p1,921,1515
+PENN,"Letters, non-private",1500-1569,mtudor-1510-e1-p2,472,1515
+PENN,"Letters, non-private",1500-1569,mtudor-1520-e1-p2,197,1528
+PENN,"Letters, non-private",1500-1569,russell-e1-p2,372,c1538
+PENN,"Letters, non-private",1500-1569,surety-e1-p2,154,1549
+PENN,"Letters, non-private",1500-1569,thoward-e1-h,405,1513-1520
+PENN,"Letters, non-private",1500-1569,thoward-e1-p1,298,1513-1520
+PENN,"Letters, non-private",1500-1569,tunstall-e1-h,1120,1517-c1521
+PENN,"Letters, non-private",1500-1569,tunstall-e1-p1,906,1517-c1521
+PENN,"Letters, non-private",1500-1569,wcecil-1560-e1-p1,1226,1564-1565
+PENN,"Letters, non-private",1500-1569,wolsey-e1-h,1078,c1529
+PENN,"Letters, non-private",1500-1569,wolsey-e1-p1,1234,c1529
+PENN,"Letters, non-private",1500-1569,wolsey-e1-p2,1133,c1529
+PENN,"Letters, private",1500-1569,abott-e1-p1,360,c1530
+PENN,"Letters, private",1500-1569,aplumpt-e1-h,1834,1502-1504
+PENN,"Letters, private",1500-1569,aplumpt-e1-p1,317,1502-1504
+PENN,"Letters, private",1500-1569,apoole-e1-p2,202,1552
+PENN,"Letters, private",1500-1569,delapole-e1-p1,260,1538
+PENN,"Letters, private",1500-1569,dplumpt-e1-h,393,c1504-1509
+PENN,"Letters, private",1500-1569,ebeaum-e1-h,399,c1500
+PENN,"Letters, private",1500-1569,ecumberl-e1-h,187,1543-1547
+PENN,"Letters, private",1500-1569,epoole-e1-p2,906,1501-1504
+PENN,"Letters, private",1500-1569,gascoigne-1500-e1-p1,524,c1502-1503
+PENN,"Letters, private",1500-1569,gascoigne-1510-e1-p1,299,1515
+PENN,"Letters, private",1500-1569,gcromw-e1-h,499,c1530-c1538
+PENN,"Letters, private",1500-1569,gcromw-e1-p1,521,c1530-c1538
+PENN,"Letters, private",1500-1569,gcromw-e1-p2,241,c1530-1538
+PENN,"Letters, private",1500-1569,gpoole-1500-e1-p2,1989,1502-1505
+PENN,"Letters, private",1500-1569,gpoole-1510-e1-p2,1102,1515
+PENN,"Letters, private",1500-1569,grey-e1-p1,88,1523
+PENN,"Letters, private",1500-1569,iplumpt-e1-h,354,c1505-1509
+PENN,"Letters, private",1500-1569,kscrope-1530-e1-h,256,1536
+PENN,"Letters, private",1500-1569,manners-e1-p2,285,c1535
+PENN,"Letters, private",1500-1569,mhoward-e1-p2,320,1536
+PENN,"Letters, private",1500-1569,morelet1-e1-h,503,1529
+PENN,"Letters, private",1500-1569,morelet2-e1-h,4135,1533-1535
+PENN,"Letters, private",1500-1569,morelet2-e1-p1,4256,1533-1535
+PENN,"Letters, private",1500-1569,mroper-e1-h,846,1534
+PENN,"Letters, private",1500-1569,mroper-e1-p1,4234,1534
+PENN,"Letters, private",1500-1569,mroper-e1-p2,3325,1534
+PENN,"Letters, private",1500-1569,nevill-e1-p1,153,c1505-1509
+PENN,"Letters, private",1500-1569,rplumpt2-e1-p1,546,1501-1503
+PENN,"Letters, private",1500-1569,rplumpt2-e1-p2,328,1501-1503
+PENN,"Letters, private",1500-1569,rplumpt-e1-h,349,1536
+PENN,"Letters, private",1500-1569,rplumpt-e1-p1,462,1536
+PENN,"Letters, private",1500-1569,savill-e1-p1,1705,1543-1546
+PENN,"Letters, private",1500-1569,wplumpt-1500-e1-h,328,1502-1503
+PENN,"Letters, private",1500-1569,wplumpt-1510-e1-h,225,c1516
+PENN,"Letters, private",1500-1569,wplumpt-1530-e1-h,343,c1516
+PENN,Medicine,1500-1569,vicary-e1-h,6238,1548
+PENN,Medicine,1500-1569,vicary-e1-p1,6709,1548
+PENN,Medicine,1500-1569,vicary-e1-p2,6178,1548
+PENN,Philosophy,1500-1569,boethco-e1-h,9904,1556
+PENN,Philosophy,1500-1569,boethco-e1-p1,11649,1556
+PENN,Philosophy,1500-1569,boethco-e1-p2,10538,1556
+PENN,"Science, other",1500-1569,record-e1-h,6967,1551
+PENN,"Science, other",1500-1569,record-e1-p1,7175,1551
+PENN,"Science, other",1500-1569,record-e1-p2,6772,1551
+PENN,Sermon,1500-1569,fisher-e1-h,4853,1521
+PENN,Sermon,1500-1569,fisher-e1-p1,5255,1521
+PENN,Sermon,1500-1569,fisher-e1-p2,5150,1521
+PENN,Sermon,1500-1569,latimer-e1-h,5068,1549
+PENN,Sermon,1500-1569,latimer-e1-p1,5345,1549
+PENN,Sermon,1500-1569,latimer-e1-p2,5042,1549
+PENN,Travelogue,1500-1569,chaplain-e1-p2,5244,1506
+PENN,Travelogue,1500-1569,leland-e1-h,6902,1535-1543
+PENN,Travelogue,1500-1569,leland-e1-p1,7254,1535-1543
+PENN,Travelogue,1500-1569,leland-e1-p2,6828,1535-1543
+PENN,Travelogue,1500-1569,torkingt-e1-h,7413,1517
+PENN,Travelogue,1500-1569,torkingt-e1-p1,7641,1517
+PENN,Travelogue,1500-1569,torkingt-e1-p2,2750,1517
+PENN,Bible,1570-1639,authnew-e2-h,11616,1611
+PENN,Bible,1570-1639,authnew-e2-p1,12836,1611
+PENN,Bible,1570-1639,authnew-e2-p2,11262,1611
+PENN,Bible,1570-1639,authold-e2-h,10598,1611
+PENN,Bible,1570-1639,authold-e2-p1,11178,1611
+PENN,Bible,1570-1639,authold-e2-p2,10492,1611
+PENN,(Auto)biography,1570-1639,perrott-e2-h,4829,1592-1603
+PENN,(Auto)biography,1570-1639,perrott-e2-p1,5320,1592-1603
+PENN,(Auto)biography,1570-1639,perrott-e2-p2,4831,1592-1603
+PENN,"Diary, private",1570-1639,forman-diary-e2-p1,4367,1602
+PENN,"Diary, private",1570-1639,forman-diary-e2-p2,3482,1602
+PENN,"Diary, private",1570-1639,forman-e2-h,4127,1602
+PENN,"Diary, private",1570-1639,hoby-e2-h,6029,1599-1601
+PENN,"Diary, private",1570-1639,hoby-e2-p1,6468,1599-1601
+PENN,"Diary, private",1570-1639,hoby-e2-p2,6377,1599-1601
+PENN,"Diary, private",1570-1639,madox-e2-h,6509,1582
+PENN,"Diary, private",1570-1639,madox-e2-p1,6892,1582
+PENN,"Diary, private",1570-1639,madox-e2-p2,6864,1582
+PENN,Educational treatise,1570-1639,bacon-e2-h,5810,1605
+PENN,Educational treatise,1570-1639,bacon-e2-p1,5918,1605
+PENN,Educational treatise,1570-1639,bacon-e2-p2,5913,1605
+PENN,Educational treatise,1570-1639,brinsley-e2-h,5593,1627
+PENN,Educational treatise,1570-1639,brinsley-e2-p1,5821,1627
+PENN,Educational treatise,1570-1639,brinsley-e2-p2,5845,1627
+PENN,Educational treatise,1570-1639,markham-e2-h,6102,1615
+PENN,Educational treatise,1570-1639,markham-e2-p1,6325,1615
+PENN,Educational treatise,1570-1639,markham-e2-p2,6193,1615
+PENN,History,1570-1639,hayward-e2-h,5285,1612
+PENN,History,1570-1639,hayward-e2-p1,5648,1612
+PENN,History,1570-1639,hayward-e2-p2,5621,1612
+PENN,History,1570-1639,stow-e2-h,4811,1580
+PENN,History,1570-1639,stow-e2-p1,5569,1580
+PENN,History,1570-1639,stow-e2-p2,4966,1580
+PENN,Law,1570-1639,stat-1570-e2-p1,2400,1571-1572
+PENN,Law,1570-1639,stat-1570-e2-p2,2368,1571-1572
+PENN,Law,1570-1639,stat-1580-e2-h,1522,1580-1589
+PENN,Law,1570-1639,stat-1580-e2-p2,6609,1580-1589
+PENN,Law,1570-1639,stat-1590-e2-h,5172,1592-1593
+PENN,Law,1570-1639,stat-1600-e2-h,5158,1603-1610
+PENN,Law,1570-1639,stat-1600-e2-p2,2232,1603-1610
+PENN,Law,1570-1639,stat-1620-e2-p2,4580,1625-1627
+PENN,Law,1570-1639,stat-1640-e2-p2,7123,1640
+PENN,"Letters, non-private",1570-1639,conway-e2-h,714,1623
+PENN,"Letters, non-private",1570-1639,edmondes-e2-h,1269,1599
+PENN,"Letters, non-private",1570-1639,edmondes-e2-p1,1811,1599
+PENN,"Letters, non-private",1570-1639,edmondes-e2-p2,1096,1599
+PENN,"Letters, non-private",1570-1639,eliz-1570-e2-p2,1075,1571-1575
+PENN,"Letters, non-private",1570-1639,eliz-1580-e2-p1,1655,1582-1588
+PENN,"Letters, non-private",1570-1639,eliz-1590-e2-h,1564,1598-c1600
+PENN,"Letters, non-private",1570-1639,eliz-1590-e2-p2,300,1598-c1600
+PENN,"Letters, non-private",1570-1639,hatcher-e2-p1,293,1580
+PENN,"Letters, non-private",1570-1639,rcecil-e2-h,998,1594-1598
+PENN,"Letters, non-private",1570-1639,rcecil-e2-p1,1390,1594-1598
+PENN,"Letters, non-private",1570-1639,rcecil-e2-p2,1169,1594-1598
+PENN,"Letters, non-private",1570-1639,rich-e2-p1,1698,1624
+PENN,"Letters, non-private",1570-1639,talbot-e2-p2,267,1593
+PENN,"Letters, non-private",1570-1639,trincoll-e2-h,204,1594
+PENN,"Letters, non-private",1570-1639,wcecil-1580-e2-h,907,1586-1588
+PENN,"Letters, non-private",1570-1639,wcecil-1580-e2-p2,678,1586-1588
+PENN,"Letters, private",1570-1639,everard-e2-h,551,1629
+PENN,"Letters, private",1570-1639,gawdy-e2-h,950,1587-1589
+PENN,"Letters, private",1570-1639,gawdy-e2-p1,1029,1587-1589
+PENN,"Letters, private",1570-1639,gawdy-e2-p2,1298,1587-1589
+PENN,"Letters, private",1570-1639,harley-e2-h,1714,1625-1633
+PENN,"Letters, private",1570-1639,harley-e2-p1,456,1625-1633
+PENN,"Letters, private",1570-1639,harleyedw-e2-p1,1547,1638
+PENN,"Letters, private",1570-1639,harleyedw-e2-p2,1795,1638
+PENN,"Letters, private",1570-1639,jbarring-e2-h,854,1628-1630
+PENN,"Letters, private",1570-1639,jbarring-e2-p1,976,1628-1630
+PENN,"Letters, private",1570-1639,jbarring-e2-p2,894,1628-1630
+PENN,"Letters, private",1570-1639,joxinden-e2-p1,637,1629-1636
+PENN,"Letters, private",1570-1639,joxinden-e2-p2,1517,1629-1636
+PENN,"Letters, private",1570-1639,jubarring-e2-p1,773,1629-1630
+PENN,"Letters, private",1570-1639,jubarring-e2-p2,576,1629-1630
+PENN,"Letters, private",1570-1639,knyvett-1620-e2-h,3008,1620-1627
+PENN,"Letters, private",1570-1639,knyvett-1620-e2-p1,4434,1620-1627
+PENN,"Letters, private",1570-1639,knyvett-1630-e2-p2,3658,1635-1639
+PENN,"Letters, private",1570-1639,koxinden-e2-h,168,1634-1637
+PENN,"Letters, private",1570-1639,koxinden-e2-p1,204,1634-1637
+PENN,"Letters, private",1570-1639,koxinden-e2-p2,254,1634-1637
+PENN,"Letters, private",1570-1639,kpaston-e2-h,828,c1624-1625
+PENN,"Letters, private",1570-1639,kpaston-e2-p1,1160,c1624-1625
+PENN,"Letters, private",1570-1639,kpaston-e2-p2,722,c1624-1625
+PENN,"Letters, private",1570-1639,kscrope-1580-e2-p1,250,1583-1585
+PENN,"Letters, private",1570-1639,masham-e2-h,853,1629-1630
+PENN,"Letters, private",1570-1639,masham-e2-p1,1018,1629-1630
+PENN,"Letters, private",1570-1639,masham-e2-p2,894,1629-1630
+PENN,"Letters, private",1570-1639,moxinden-e2-p1,332,1637-1642
+PENN,"Letters, private",1570-1639,moxinden-e2-p2,496,1637-1642
+PENN,"Letters, private",1570-1639,nferrar-e2-h,124,1626-1631
+PENN,"Letters, private",1570-1639,nferrar-e2-p1,420,1626-1631
+PENN,"Letters, private",1570-1639,nferrar-e2-p2,480,1626-1631
+PENN,"Letters, private",1570-1639,pettit2-e2-p2,573,1625-1628
+PENN,"Letters, private",1570-1639,pettit-e2-h,425,1624-1625
+PENN,"Letters, private",1570-1639,pettit-e2-p1,465,1624-1625
+PENN,"Letters, private",1570-1639,peyton-e2-h,340,1632
+PENN,"Letters, private",1570-1639,proud-1620-e2-h,174,1626
+PENN,"Letters, private",1570-1639,proud-1630-e2-p1,470,1636
+PENN,"Letters, private",1570-1639,rferrar-e2-h,198,1633
+PENN,"Letters, private",1570-1639,roxinden-1600-e2-p1,320,1607
+PENN,"Letters, private",1570-1639,roxinden-1620-e2-h,449,1625-1627
+PENN,"Letters, private",1570-1639,roxinden-1620-e2-p1,75,1625-1627
+PENN,"Letters, private",1570-1639,roxinden2-e2-p1,212,1629-1631
+PENN,"Letters, private",1570-1639,roxinden2-e2-p2,436,1629-1631
+PENN,"Letters, private",1570-1639,tbarring-e2-h,440,1629-1630
+PENN,"Letters, private",1570-1639,tbarring-e2-p1,578,1629-1630
+PENN,"Letters, private",1570-1639,tbarring-e2-p2,599,1629-1630
+PENN,"Letters, private",1570-1639,wpaston2-e2-h,433,1624-1625
+PENN,Medicine,1570-1639,clowes-e2-h,7133,1602
+PENN,Medicine,1570-1639,clowes-e2-p1,7340,1602
+PENN,Medicine,1570-1639,clowes-e2-p2,5123,1602
+PENN,Medicine,1570-1639,clowesobs-e2-p2,2077,1596
+PENN,Philosophy,1570-1639,boethel-e2-h,7165,1593
+PENN,Philosophy,1570-1639,boethel-e2-p1,7882,1593
+PENN,Philosophy,1570-1639,boethel-e2-p2,7382,1593
+PENN,"Science, other",1570-1639,blundev-e2-h,6486,1597
+PENN,"Science, other",1570-1639,blundev-e2-p1,7173,1597
+PENN,"Science, other",1570-1639,blundev-e2-p2,6941,1597
+PENN,Sermon,1570-1639,hooker-a-e2-h,2435,1614
+PENN,Sermon,1570-1639,hooker-a-e2-p1,2629,1614
+PENN,Sermon,1570-1639,hooker-a-e2-p2,2896,1614
+PENN,Sermon,1570-1639,hooker-b-e2-h,2690,1614
+PENN,Sermon,1570-1639,hooker-b-e2-p1,2700,1614
+PENN,Sermon,1570-1639,hooker-b-e2-p2,2166,1614
+PENN,Sermon,1570-1639,smith-e2-h,5200,1591
+PENN,Sermon,1570-1639,smith-e2-p1,6372,1591
+PENN,Sermon,1570-1639,smith-e2-p2,4458,1591
+PENN,Travelogue,1570-1639,coverte-e2-h,5934,1612
+PENN,Travelogue,1570-1639,coverte-e2-p1,6240,1612
+PENN,Travelogue,1570-1639,coverte-e2-p2,6030,1612
+PENN,Travelogue,1570-1639,jotaylor-e2-h,8854,1630
+PENN,Travelogue,1570-1639,jotaylor-e2-p1,9452,1630
+PENN,Travelogue,1570-1639,jotaylor-e2-p2,8820,1630
+PENN,(Auto)biography,1640-1710,fox-e3-h,5564,1673-1674
+PENN,(Auto)biography,1640-1710,fox-e3-p1,6130,1673-1674
+PENN,(Auto)biography,1640-1710,fox-e3-p2,6017,1673-1674
+PENN,(Auto)biography,1640-1710,burnetroc-e3-h,6171,1680
+PENN,(Auto)biography,1640-1710,burnetroc-e3-p1,6376,1680
+PENN,(Auto)biography,1640-1710,burnetroc-e3-p2,6285,1680
+PENN,"Diary, private",1640-1710,evelyn-e3-h,6110,1688-1689
+PENN,"Diary, private",1640-1710,evelyn-e3-p1,6521,1688-1689
+PENN,"Diary, private",1640-1710,evelyn-e3-p2,6531,1688-1689
+PENN,"Diary, private",1640-1710,pepys-e3-h,5179,1666-1667
+PENN,"Diary, private",1640-1710,pepys-e3-p1,5712,1666-1667
+PENN,"Diary, private",1640-1710,pepys-e3-p2,5339,1666-1667
+PENN,Educational treatise,1640-1710,hoole-e3-h,6132,1660
+PENN,Educational treatise,1640-1710,hoole-e3-p1,6265,1660
+PENN,Educational treatise,1640-1710,hoole-e3-p2,6538,1660
+PENN,Educational treatise,1640-1710,jetaylormeas-e3-p1,1260,1662
+PENN,Educational treatise,1640-1710,jetaylormeas-e3-p2,6402,1662
+PENN,Educational treatise,1640-1710,locke-e3-h,5217,1685
+PENN,Educational treatise,1640-1710,locke-e3-p1,5842,1685
+PENN,Educational treatise,1640-1710,locke-e3-p2,5431,1685
+PENN,Educational treatise,1640-1710,langf-e3-h,6015,1696
+PENN,Educational treatise,1640-1710,langf-e3-p1,6345,1696
+PENN,Educational treatise,1640-1710,langf-e3-p2,6486,1696
+PENN,History,1640-1710,burnetcha-e3-h,5818,1683-1713
+PENN,History,1640-1710,burnetcha-e3-p1,5931,1683-1713
+PENN,History,1640-1710,burnetcha-e3-p2,5849,1683-1713
+PENN,History,1640-1710,milton-e3-h,5822,1670
+PENN,History,1640-1710,milton-e3-p1,6349,1670
+PENN,History,1640-1710,milton-e3-p2,6275,1670
+PENN,Law,1640-1710,stat-1660-e3-p2,10585,1660-1666
+PENN,Law,1640-1710,stat-1670-e3-p2,3442,1670-1671
+PENN,Law,1640-1710,stat-1690-e3-h,13199,1695-1699
+PENN,Law,1640-1710,stat-1690-e3-p1,14208,1695-1699
+PENN,"Letters, non-private",1640-1710,aungier-e3-h,1068,1673-1675
+PENN,"Letters, non-private",1640-1710,aungier-e3-p1,1011,1673-1675
+PENN,"Letters, non-private",1640-1710,aungier-e3-p2,1312,1673-1675
+PENN,"Letters, non-private",1640-1710,capel-e3-h,482,1675-1677
+PENN,"Letters, non-private",1640-1710,capel-e3-p1,568,1675-1677
+PENN,"Letters, non-private",1640-1710,capel-e3-p2,553,1675-1677
+PENN,"Letters, non-private",1640-1710,charles-1650-e3-p1,964,1656-1657
+PENN,"Letters, non-private",1640-1710,charles-1670-e3-h,825,1670
+PENN,"Letters, non-private",1640-1710,charles-1670-e3-p2,1071,1672-1679
+PENN,"Letters, non-private",1640-1710,commiss-e3-h,725,1673
+PENN,"Letters, non-private",1640-1710,conway2-e3-p2,1668,1675
+PENN,"Letters, non-private",1640-1710,counc-e3-h,194,1688
+PENN,"Letters, non-private",1640-1710,dell-e3-p1,581,1688
+PENN,"Letters, non-private",1640-1710,drummond-e3-p1,2065,1690
+PENN,"Letters, non-private",1640-1710,memo-e3-p1,858,1675
+PENN,"Letters, non-private",1640-1710,memo-e3-p2,450,1675
+PENN,"Letters, non-private",1640-1710,osborne-e3-h,985,1675-1676
+PENN,"Letters, non-private",1640-1710,osborne-e3-p1,471,1675-1676
+PENN,"Letters, non-private",1640-1710,proposals-e3-p2,450,1677
+PENN,"Letters, non-private",1640-1710,somers-e3-h,736,1697
+PENN,"Letters, non-private",1640-1710,spencer-1680-e3-h,807,1687-1688
+PENN,"Letters, non-private",1640-1710,spencer-1700-e3-p1,973,1708
+PENN,"Letters, non-private",1640-1710,spencer-1700-e3-p2,826,1708
+PENN,"Letters, private",1640-1710,alhatton2-e3-p1,899,1687
+PENN,"Letters, private",1640-1710,alhatton-e3-h,769,1699-1700
+PENN,"Letters, private",1640-1710,anhatton-e3-h,534,1690-1695
+PENN,"Letters, private",1640-1710,anhatton-e3-p1,721,1690-1695
+PENN,"Letters, private",1640-1710,anhatton-e3-p2,620,1690-1695
+PENN,"Letters, private",1640-1710,chatton-e3-h,587,1689-1692
+PENN,"Letters, private",1640-1710,chatton-e3-p1,752,1689-1692
+PENN,"Letters, private",1640-1710,chatton-e3-p2,581,1689-1692
+PENN,"Letters, private",1640-1710,dering-e3-p2,1752,1647
+PENN,"Letters, private",1640-1710,ehatton2-e3-p2,862,1690
+PENN,"Letters, private",1640-1710,ehatton-e3-h,361,1666
+PENN,"Letters, private",1640-1710,eoxinden-1650-e3-p1,343,1658
+PENN,"Letters, private",1640-1710,eoxinden-1660-e3-h,1867,1662-1667
+PENN,"Letters, private",1640-1710,eoxinden-1660-e3-p1,520,1662-1667
+PENN,"Letters, private",1640-1710,eoxinden-1680-e3-p1,560,1680
+PENN,"Letters, private",1640-1710,fhatton-e3-h,469,1677
+PENN,"Letters, private",1640-1710,hoxinden-1640-e3-p1,3370,1647-1648
+PENN,"Letters, private",1640-1710,hoxinden-1650-e3-p2,3824,1651-1652
+PENN,"Letters, private",1640-1710,hoxinden-1660-e3-h,3422,1662-1663
+PENN,"Letters, private",1640-1710,jackson-e3-p1,490,c1655
+PENN,"Letters, private",1640-1710,jopinney-e3-h,401,1688
+PENN,"Letters, private",1640-1710,jopinney-e3-p1,523,1688
+PENN,"Letters, private",1640-1710,jopinney-e3-p2,1997,1688
+PENN,"Letters, private",1640-1710,jpinney-e3-h,881,1685-1686
+PENN,"Letters, private",1640-1710,jpinney-e3-p1,186,1685-1686
+PENN,"Letters, private",1640-1710,mhatton-e3-p1,556,1678
+PENN,"Letters, private",1640-1710,montague-e3-p2,1334,1679-1681
+PENN,"Letters, private",1640-1710,nhadd-1700-e3-h,257,1706
+PENN,"Letters, private",1640-1710,nhadd-1700-e3-p1,521,1706
+PENN,"Letters, private",,nhadd-1710-e3-p2,464,1718-1719
+PENN,"Letters, private",1640-1710,phenry-e3-h,587,1685
+PENN,"Letters, private",1640-1710,phenry-e3-p1,847,1685
+PENN,"Letters, private",1640-1710,phenry-e3-p2,592,1685
+PENN,"Letters, private",1640-1710,rhaddjr-e3-h,207,1692
+PENN,"Letters, private",1640-1710,rhaddsr-1650-e3-p1,1957,1657-1658
+PENN,"Letters, private",1640-1710,rhaddsr-1670-e3-h,727,1672-1673
+PENN,"Letters, private",1640-1710,rhaddsr-1670-e3-p2,2534,1672-1673
+PENN,"Letters, private",1640-1710,rhaddsr-1680-e3-p2,206,1688
+PENN,"Letters, private",1640-1710,rhaddsr-1700-e3-h,1007,1702-1703
+PENN,"Letters, private",,rhaddsr-1710-e3-p2,187,1712
+PENN,"Letters, private",1640-1710,southard-e3-p1,402,1686
+PENN,"Letters, private",1640-1710,strype-e3-h,1023,1662-1665
+PENN,"Letters, private",1640-1710,strype-e3-p1,1353,1662-1665
+PENN,"Letters, private",1640-1710,zouch-e3-p2,324,1649
+PENN,Philosophy,1640-1710,boethpr-e3-h,8845,1695
+PENN,Philosophy,1640-1710,boethpr-e3-p1,11013,1695
+PENN,Philosophy,1640-1710,boethpr-e3-p2,9455,1695
+PENN,"Science, other",1640-1710,boylecol-e3-p1,1305,1664
+PENN,"Science, other",1640-1710,boylecol-e3-p2,5413,1664
+PENN,"Science, other",1640-1710,boyle-e3-h,5250,1675-1676
+PENN,"Science, other",1640-1710,boyle-e3-p1,4181,1675-1676
+PENN,"Science, other",1640-1710,hooke-e3-h,6143,1665
+PENN,"Science, other",1640-1710,hooke-e3-p1,6793,1665
+PENN,"Science, other",1640-1710,hooke-e3-p2,6847,1665
+PENN,Sermon,1640-1710,jetaylor-e3-h,6169,1673
+PENN,Sermon,1640-1710,jetaylor-e3-p1,5120,1673
+PENN,Sermon,1640-1710,tillots-a-e3-h,3093,a1671
+PENN,Sermon,1640-1710,tillots-a-e3-p1,2706,a1671
+PENN,Sermon,1640-1710,tillots-b-e3-h,3530,1679
+PENN,Sermon,1640-1710,tillots-b-e3-p1,4797,1679
+PENN,Sermon,1640-1710,tillots-c-e3-p2,6261,1680
+PENN,Travelogue,1640-1710,fiennes-e3-h,5168,1698
+PENN,Travelogue,1640-1710,fiennes-e3-p1,5428,1698
+PENN,Travelogue,1640-1710,fiennes-e3-p2,5630,1698
+PENN,Travelogue,1640-1710,fryer-e3-h,5347,1672-1681
+PENN,Travelogue,1640-1710,fryer-e3-p1,5576,1672-1681
+PENN,Travelogue,1640-1710,fryer-e3-p2,5649,1672-1681
+CED,Drama comedy,1560-1599,D1CCHAPM,9190,1599
+CED,Drama comedy,1560-1599,D1CKNAVE,10740,1594
+CED,Drama comedy,1560-1599,D1CLYLY,9450,1584
+CED,Drama comedy,1560-1599,D1CPEELE,7920,1595
+CED,Drama comedy,1560-1599,D1CWARNE,10290,1595
+CED,Drama comedy,1600-1639,D2CBARRE,9800,1611
+CED,Drama comedy,1600-1639,D2CHEYWO,9410,1602
+CED,Drama comedy,1600-1639,D2CJONSO,9630,1631
+CED,Drama comedy,1600-1639,D2CSHAKE,9000,1602
+CED,Drama comedy,1600-1639,D2CWILKI,9860,1607
+CED,Drama comedy,1640-1679,D3CBROME,10200,1653
+CED,Drama comedy,1640-1679,D3CDRYDE,9180,1669
+CED,Drama comedy,1640-1679,D3CETHER,9660,1676
+CED,Drama comedy,1640-1679,D3CTB,8450,1647
+CED,Drama comedy,1640-1679,D3CWYCHE,10100,1675
+CED,Drama comedy,1680-1719,D4CCONGR,9450,1694
+CED,Drama comedy,1680-1719,D4CFARQU,9360,1707
+CED,Drama comedy,1680-1719,D4CKILLI,9520,1719
+CED,Drama comedy,1680-1719,D4CMANLE,9340,1696
+CED,Drama comedy,1680-1719,D4CSHADW,9530,1682
+CED,Drama comedy,1720-1760,D5CFIELD,8790,1737
+CED,Drama comedy,1720-1760,D5CGARRI,9520,1757
+CED,Drama comedy,1720-1760,D5CHOADL,11340,1747
+CED,Drama comedy,1720-1760,D5CMILLE,9670,1734
+CED,Drama comedy,1720-1760,D5CSTEEL,9190,1723
+CED,Trial proceedings,1720-1760,D5TAYLIF,7440,1759
+CED,Trial proceedings,1720-1760,D5TBAKER,3540,1750
+CED,Trial proceedings,1720-1760,D5TCOOKE,5360,1721
+CED,Trial proceedings,1720-1760,D5TGREEN,3660,1740
+CED,Trial proceedings,1720-1760,D5TLAYER,10650,1722
+CED,Trial proceedings,1720-1760,D5TMACCL,12100,1725
+CED,Trial proceedings,1720-1760,D5TREDDI,9940,1742
+CED,Trial proceedings,1720-1760,D5TSTEVE,7440,1759
+CED,Trial proceedings,1720-1760,D5TSWAN,6320,1752
+CED,Trial proceedings,1560-1599,D1THICKF,1590,1571
+CED,Trial proceedings,1560-1599,D1TNORFO,15000,1571
+CED,Trial proceedings,1560-1599,D1TPARRY,3350,1585
+CED,Trial proceedings,1600-1639,D2TBAST,2990,1637
+CED,Trial proceedings,1600-1639,D2TCARR,3820,1616
+CED,Trial proceedings,1600-1639,D2THIGHC,6980,1632
+CED,Trial proceedings,1600-1639,D2TLADYF,640,1616
+CED,Trial proceedings,1640-1679,D3TCHARL,7660,1648
+CED,Trial proceedings,1640-1679,D3TCOLEM,8740,1678
+CED,Trial proceedings,1640-1679,D3TGBH,10780,1678-79
+CED,Trial proceedings,1640-1679,D3THARRI,1290,1660
+CED,Trial proceedings,1640-1679,D3TLILBU,10030,1649
+CED,Trial proceedings,1640-1679,D3TLOVE,9000,1651
+CED,Trial proceedings,1640-1679,D3TMACGU,4390,1645
+CED,Trial proceedings,1640-1679,D3TMODER,2140,1663
+CED,Trial proceedings,1640-1679,D3TSLING,9240,1658
+CED,Trial proceedings,1640-1679,D3TTURNE,6740,1663
+CED,Trial proceedings,1680-1719,D4TCELLI,4160,1680
+CED,Trial proceedings,1680-1719,D4TCOLLE,7840,1681
+CED,Trial proceedings,1680-1719,D4TFRANC,13970,1716
+CED,Trial proceedings,1680-1719,D4TGILES,6280,1680
+CED,Trial proceedings,1680-1719,D4THAMBD,9190,1683
+CED,Trial proceedings,1680-1719,D4TMOHUN,9970,1692
+CED,Trial proceedings,1680-1719,D4TPILKI,12020,1682
+CED,Trial proceedings,1680-1719,D4TROOKW,9520,1696
+CED,Trial proceedings,1680-1719,D4TSIDNE,9380,1683
+CED,Trial proceedings,1680-1719,D4TSWEND,9680,1702
+CED,Trial proceedings,1680-1719,D4TTFP,4620,1682
+CED,Trial proceedings,1720-1760,D5TAMBRO,10330,1745
+CED,Trial proceedings,1720-1760,D5TCIBBE,3790,1738
+CED,Trial proceedings,1720-1760,D5TWILLI,4080,1745
+CED,Witness depositions,1560-1599,D1WBARKS,570,1579
+CED,Witness depositions,1560-1599,D1WCHENS,3450,1566
+CED,Witness depositions,1560-1599,D1WCHEST,11040,1561-66
+CED,Witness depositions,1560-1599,D1WDARCY,10510,1582
+CED,Witness depositions,1560-1599,D1WDURHA,9480,1560-88
+CED,Witness depositions,1560-1599,D1WNORWI,2960,1583
+CED,Witness depositions,1560-1599,D1WNOTOR,2470,1589
+CED,Witness depositions,1560-1599,D1WWALSH,1600,1566
+CED,Witness depositions,1600-1639,D2WDIOCE,7260,1627-37
+CED,Witness depositions,1600-1639,D2WFLOWE,3320,1618
+CED,Witness depositions,1600-1639,D2WMERVI,3430,1631
+CED,Witness depositions,1600-1639,D2WPENDL,10080,1612
+CED,Witness depositions,1600-1639,D2WRALEI,7120,1603
+CED,Witness depositions,1600-1639,D2WSOUTH,8720,1600
+CED,Witness depositions,1640-1679,D3WBROOK,4330,1678
+CED,Witness depositions,1640-1679,D3WBURY,5280,1664
+CED,Witness depositions,1640-1679,D3WCROMW,7740,1654
+CED,Witness depositions,1640-1679,D3WESSEX,2140,1645
+CED,Witness depositions,1640-1679,D3WKNOX,4660,1679
+CED,Witness depositions,1640-1679,D3WMOSEL,2550,1647
+CED,Witness depositions,1640-1679,D3WSUFFO,9740,1645
+CED,Witness depositions,1640-1679,D3WYORK,10380,1655-64
+CED,Witness depositions,1680-1719,D4WBUTS,980,1682
+CED,Witness depositions,1680-1719,D4WDEVON,1750,1682
+CED,Witness depositions,1680-1719,D4WDUTCH,3270,1691
+CED,Witness depositions,1680-1719,D4WOXFOR,2930,1716
+CED,Witness depositions,1680-1719,D4WWALES,7990,1688
+CED,Witness depositions,1680-1719,D4WYORK,9580,1680-89
+CED,Witness depositions,1720-1760,D5WBLAND,3140,1752
+CED,Witness depositions,1720-1760,D5WLYDDE,5010,1729-30
+CED,Witness depositions,1720-1760,D5WNORRI,5420,1744-45
+CED,Witness depositions,1720-1760,D5WTOFT,1310,1726
+CED,Witness depositions,1720-1760,D5WWILDE,2730,1725
